@@ -1,7 +1,7 @@
 # Checkpoint 1
 
-### GitHub URL: 
+### GitHub URL: https://github.com/mayankgongal5/promptpirates-genathon
 
-### Team Name: 
+### Team Name: Prompt Pirates
 
-### PPT Link:
+### PPT Link: https://www.canva.com/design/DAGTwFbMVL0/TLp75RcuKHVAcNUrSjCWog/edit
